@@ -1,0 +1,34 @@
+{
+  "name": "logchunk",
+  "version": "0.1.0",
+  "description": "A Node.js package that adds color to your console logs, improving readability and making log outputs more vibrant.",
+  "main": "core.js",
+  "dependencies": {
+    "ansi-regex": "^6.1.0",
+    "chalk": "^5.4.1",
+    "strip-ansi": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaboIch/LogChunk.git"
+  },
+  "keywords": [
+    "log",
+    "chunk",
+    "color",
+    "console",
+    "output",
+    "vibrant",
+    "readability"
+  ],
+  "author": "Sabolch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaboIch/LogChunk/issues"
+  },
+  "homepage": "https://github.com/SaboIch/LogChunk#readme"
+}
